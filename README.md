@@ -1,0 +1,2 @@
+# kolmafia
+KoLMafia scripts
